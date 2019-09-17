@@ -157,7 +157,7 @@
     <Compile Include="Command\Validation\InputValidation.cs" />
     <Compile Include="Core\Container.cs" />
     <Compile Include="Data\AppDbContext.cs" />
-    <Compile Include="Entity\IUser.cs" />
+    <Compile Include="Entity\IEntity.cs" />
     <Compile Include="Entity\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
